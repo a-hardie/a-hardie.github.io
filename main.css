@@ -129,13 +129,15 @@ p, .links li {
 	text-indent: 2em;
 	font-size: 1.375em;
 	padding: 10px;
-	transition: all .5s;
 }
 .description {
 	background-color: #bbbbbb;
 	margin: 10px auto 10px auto;
 	border-radius: 10px;
 	box-shadow: 2px 2px 3px #000000;
+}
+.links li a {
+	transition: all .5s;	
 }
 .links li a:hover {
 	font-size: 1.1em;
