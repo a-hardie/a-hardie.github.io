@@ -125,7 +125,7 @@ footer {
 	margin: 20px;
 	text-align: center;
 }
-p {
+p, .link li {
 	text-indent: 2em;
 	font-size: 1.375em;
 	padding: 10px;
