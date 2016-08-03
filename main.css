@@ -6,7 +6,6 @@ html, body, h1, h2, h3, h4, p, div, ul, ol, li {
 	margin: 0;
 	font: inherit;
 	font-size: 100%;
-	transition: all .5s;
 }
 
 body {
@@ -130,6 +129,7 @@ p, .links li {
 	text-indent: 2em;
 	font-size: 1.375em;
 	padding: 10px;
+	transition: all .5s;
 }
 .description {
 	background-color: #bbbbbb;
