@@ -136,7 +136,7 @@ p, .links li {
 	border-radius: 10px;
 	box-shadow: 2px 2px 3px #000000;
 }
-.links ul li {
+.links ul {
 	list-style-type: square;
 }
 
