@@ -136,7 +136,9 @@ p, .links li {
 	border-radius: 10px;
 	box-shadow: 2px 2px 3px #000000;
 }
-
+.links li{
+	list-style-type: disc;
+}
 
 
 @media screen and (max-width: 778px) {
